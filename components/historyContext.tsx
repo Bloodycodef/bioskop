@@ -4,7 +4,7 @@ type Movie = {
   id: number;
   title: string;
   poster_path: string;
-  release_date?: string; // tambahkan ini
+  release_date?: string; 
   runtime?: number;
 };
 
